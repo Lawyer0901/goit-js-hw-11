@@ -47,7 +47,7 @@ async function loadFromAPI(name, page) {
 
   const options = {
     params: {
-      key: '31311372-7a32d736a6b9fd9c5281051f5',
+      key: '31605839-858af090e8e0e31dbfed95a6b',
       q: name,
       image_type: 'photo',
       orientation: 'horizontal',
